@@ -66,7 +66,7 @@
         <mxCell id="vTul6gbGMXsLFVHZOxbA-31" value="接口调用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="201" y="204" width="52" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="vTul6gbGMXsLFVHZOxbA-33" value="智能对象设备" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vTul6gbGMXsLFVHZOxbA-33" value="智能对象设备（可完成80%到90%的设备挑选）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="546" y="132" width="126" height="30" as="geometry" />
         </mxCell>
       </root>
