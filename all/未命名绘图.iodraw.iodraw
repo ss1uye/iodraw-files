@@ -76,7 +76,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vTul6gbGMXsLFVHZOxbA-35" value="工程师手动复核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="397" y="341" width="108" height="33" as="geometry" />
+          <mxGeometry x="355" y="341" width="150" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
