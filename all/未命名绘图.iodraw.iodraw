@@ -42,7 +42,7 @@
         <mxCell id="vTul6gbGMXsLFVHZOxbA-23" value="&lt;ul&gt;&lt;li&gt;绑定传感器&lt;/li&gt;&lt;li&gt;绑定执行器&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="638" y="187" width="109" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vTul6gbGMXsLFVHZOxbA-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vTul6gbGMXsLFVHZOxbA-25" value="AI识别需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="379" y="95" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
