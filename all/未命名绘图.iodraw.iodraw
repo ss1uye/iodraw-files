@@ -48,7 +48,7 @@
         <mxCell id="vTul6gbGMXsLFVHZOxbA-25" value="AI识别需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="379" y="95" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vTul6gbGMXsLFVHZOxbA-27" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vTul6gbGMXsLFVHZOxbA-28" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="394" y="306" as="sourcePoint" />
             <mxPoint x="444" y="256" as="targetPoint" />
