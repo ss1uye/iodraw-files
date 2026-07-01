@@ -26,7 +26,7 @@
           <mxGeometry x="465" y="247" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vTul6gbGMXsLFVHZOxbA-8" value="..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="365" y="277" width="80" height="20" as="geometry" />
+          <mxGeometry x="465" y="277" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vTul6gbGMXsLFVHZOxbA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vTul6gbGMXsLFVHZOxbA-19">
           <mxGeometry relative="1" as="geometry">
@@ -41,6 +41,9 @@
         </mxCell>
         <mxCell id="vTul6gbGMXsLFVHZOxbA-23" value="&lt;ul&gt;&lt;li&gt;绑定传感器&lt;/li&gt;&lt;li&gt;绑定执行器&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="638" y="187" width="109" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vTul6gbGMXsLFVHZOxbA-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="379" y="95" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
