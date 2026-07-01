@@ -34,7 +34,7 @@
           <mxGeometry x="136" y="87" width="102" height="35" as="geometry" />
         </mxCell>
         <mxCell id="vTul6gbGMXsLFVHZOxbA-21" value="调取工站bom相关信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="54" y="154" width="123" height="30" as="geometry" />
+          <mxGeometry x="52" y="151" width="123" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
