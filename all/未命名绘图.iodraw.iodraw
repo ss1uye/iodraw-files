@@ -43,7 +43,7 @@
           <mxGeometry x="131" y="261" width="98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vTul6gbGMXsLFVHZOxbA-23" value="&lt;ul&gt;&lt;li&gt;绑定传感器&lt;/li&gt;&lt;li&gt;绑定执行器&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="638" y="187" width="109" height="80" as="geometry" />
+          <mxGeometry x="640" y="191" width="109" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vTul6gbGMXsLFVHZOxbA-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vTul6gbGMXsLFVHZOxbA-25" target="vTul6gbGMXsLFVHZOxbA-23">
           <mxGeometry relative="1" as="geometry" />
@@ -67,7 +67,7 @@
           <mxGeometry x="201" y="204" width="52" height="25" as="geometry" />
         </mxCell>
         <mxCell id="vTul6gbGMXsLFVHZOxbA-33" value="智能匹配设备（可完成80%到90%的设备挑选）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="511" y="122.5" width="162" height="30" as="geometry" />
+          <mxGeometry x="510" y="81" width="162" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
